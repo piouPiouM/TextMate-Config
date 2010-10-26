@@ -46,3 +46,6 @@
 [submodule "Pristine Copy/Bundles/Ant.tmbundle"]
 	path = Pristine Copy/Bundles/Ant.tmbundle
 	url = git://github.com/textmate/ant.tmbundle.git
+[submodule "Pristine Copy/Bundles/JavaScript Tools.tmbundle"]
+	path = Pristine Copy/Bundles/JavaScript Tools.tmbundle
+	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git

@@ -1,0 +1,27 @@
+[submodule "Pristine Copy/Bundles/PHP.tmbundle"]
+	path = Pristine Copy/Bundles/PHP.tmbundle
+	url = git://github.com/textmate/php.tmbundle.git
+[submodule "Pristine Copy/Bundles/JavaScript.tmbundle"]
+	path = Pristine Copy/Bundles/JavaScript.tmbundle
+	url = git://github.com/textmate/javascript.tmbundle.git
+[submodule "Pristine Copy/Bundles/HTML.tmbundle"]
+	path = Pristine Copy/Bundles/HTML.tmbundle
+	url = git://github.com/textmate/html.tmbundle.git
+[submodule "Pristine Copy/Bundles/XML.tmbundle"]
+	path = Pristine Copy/Bundles/XML.tmbundle
+	url = git://github.com/textmate/xml.tmbundle.git
+[submodule "Pristine Copy/Bundles/Java.tmbundle"]
+	path = Pristine Copy/Bundles/Java.tmbundle
+	url = git://github.com/textmate/java.tmbundle.git
+[submodule "Pristine Copy/Bundles/Python.tmbundle"]
+	path = Pristine Copy/Bundles/Python.tmbundle
+	url = git://github.com/textmate/python.tmbundle.git
+[submodule "Pristine Copy/Bundles/Source.tmbundle"]
+	path = Pristine Copy/Bundles/Source.tmbundle
+	url = git://github.com/textmate/source.tmbundle.git
+[submodule "Pristine Copy/Bundles/Ruby.tmbundle"]
+	path = Pristine Copy/Bundles/Ruby.tmbundle
+	url = git://github.com/textmate/ruby.tmbundle.git
+[submodule "Pristine Copy/Bundles/TextMate.tmbundle"]
+	path = Pristine Copy/Bundles/TextMate.tmbundle
+	url = git://github.com/textmate/textmate.tmbundle.git

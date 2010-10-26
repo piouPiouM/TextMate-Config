@@ -31,3 +31,6 @@
 [submodule "Pristine Copy/Bundles/Ini.tmbundle"]
 	path = Pristine Copy/Bundles/Ini.tmbundle
 	url = git://github.com/textmate/ini.tmbundle.git
+[submodule "Pristine Copy/Bundles/JSON.tmbundle"]
+	path = Pristine Copy/Bundles/JSON.tmbundle
+	url = git://github.com/textmate/json.tmbundle.git

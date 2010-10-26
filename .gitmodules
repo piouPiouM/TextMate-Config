@@ -40,3 +40,6 @@
 [submodule "Pristine Copy/Bundles/TODO.tmbundle"]
 	path = Pristine Copy/Bundles/TODO.tmbundle
 	url = git://github.com/textmate/todo.tmbundle.git
+[submodule "Pristine Copy/Bundles/reStructuredText.tmbundle"]
+	path = Pristine Copy/Bundles/reStructuredText.tmbundle
+	url = git://github.com/textmate/restructuredtext.tmbundle.git

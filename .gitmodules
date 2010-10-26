@@ -34,3 +34,6 @@
 [submodule "Pristine Copy/Bundles/JSON.tmbundle"]
 	path = Pristine Copy/Bundles/JSON.tmbundle
 	url = git://github.com/textmate/json.tmbundle.git
+[submodule "Pristine Copy/Bundles/ShellScript.tmbundle"]
+	path = Pristine Copy/Bundles/ShellScript.tmbundle
+	url = git://github.com/textmate/shellscript.tmbundle.git

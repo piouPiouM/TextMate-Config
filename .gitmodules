@@ -49,3 +49,6 @@
 [submodule "Pristine Copy/Bundles/JavaScript Tools.tmbundle"]
 	path = Pristine Copy/Bundles/JavaScript Tools.tmbundle
 	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
+[submodule "Pristine Copy/Bundles/License Helper.tmbundle"]
+	path = Pristine Copy/Bundles/License Helper.tmbundle
+	url = git://github.com/piouPiouM/license-helper.tmbundle.git

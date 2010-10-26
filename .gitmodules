@@ -25,3 +25,6 @@
 [submodule "Pristine Copy/Bundles/TextMate.tmbundle"]
 	path = Pristine Copy/Bundles/TextMate.tmbundle
 	url = git://github.com/textmate/textmate.tmbundle.git
+[submodule "Pristine Copy/Bundles/Text.tmbundle"]
+	path = Pristine Copy/Bundles/Text.tmbundle
+	url = git://github.com/textmate/text.tmbundle.git

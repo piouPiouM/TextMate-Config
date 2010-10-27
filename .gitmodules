@@ -61,3 +61,6 @@
 [submodule "Pristine Copy/Bundles/SCSS.tmbundle"]
 	path = Pristine Copy/Bundles/SCSS.tmbundle
 	url = git://github.com/kuroir/SCSS.tmbundle.git
+[submodule "Pristine Copy/Bundles/LESS.tmbundle"]
+	path = Pristine Copy/Bundles/LESS.tmbundle
+	url = git://github.com/appden/less.tmbundle.git

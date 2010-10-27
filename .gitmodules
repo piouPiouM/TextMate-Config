@@ -52,3 +52,6 @@
 [submodule "Pristine Copy/Bundles/License Helper.tmbundle"]
 	path = Pristine Copy/Bundles/License Helper.tmbundle
 	url = git://github.com/piouPiouM/license-helper.tmbundle.git
+[submodule "Pristine Copy/Bundles/Ack.tmbundle"]
+	path = Pristine Copy/Bundles/Ack.tmbundle
+	url = git://github.com/protocool/ack-tmbundle.git

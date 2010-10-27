@@ -58,3 +58,6 @@
 [submodule "Pristine Copy/Bundles/CSS.tmbundle"]
 	path = Pristine Copy/Bundles/CSS.tmbundle
 	url = git://github.com/subtleGradient/css.tmbundle.git
+[submodule "Pristine Copy/Bundles/SCSS.tmbundle"]
+	path = Pristine Copy/Bundles/SCSS.tmbundle
+	url = git://github.com/kuroir/SCSS.tmbundle.git

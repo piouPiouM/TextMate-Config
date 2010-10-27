@@ -55,3 +55,6 @@
 [submodule "Pristine Copy/Bundles/Ack.tmbundle"]
 	path = Pristine Copy/Bundles/Ack.tmbundle
 	url = git://github.com/protocool/ack-tmbundle.git
+[submodule "Pristine Copy/Bundles/CSS.tmbundle"]
+	path = Pristine Copy/Bundles/CSS.tmbundle
+	url = git://github.com/subtleGradient/css.tmbundle.git

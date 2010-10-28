@@ -64,3 +64,6 @@
 [submodule "Pristine Copy/Bundles/LESS.tmbundle"]
 	path = Pristine Copy/Bundles/LESS.tmbundle
 	url = git://github.com/appden/less.tmbundle.git
+[submodule "Pristine Copy/Bundles/Symfony.tmbundle"]
+	path = Pristine Copy/Bundles/Symfony.tmbundle
+	url = git://github.com/piouPiouM/symfony-tmbundle.git

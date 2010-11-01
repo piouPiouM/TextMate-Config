@@ -67,3 +67,6 @@
 [submodule "Pristine Copy/Bundles/Symfony.tmbundle"]
 	path = Pristine Copy/Bundles/Symfony.tmbundle
 	url = git://github.com/piouPiouM/symfony-tmbundle.git
+[submodule "Pristine Copy/Bundles/Lua.tmbundle"]
+	path = Pristine Copy/Bundles/Lua.tmbundle
+	url = git://github.com/textmate/lua.tmbundle.git
